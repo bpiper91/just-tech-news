@@ -1,3 +1,4 @@
+// capture upvote button click on single post page
 async function upvoteClickHandler(event) {
     event.preventDefault();
 
